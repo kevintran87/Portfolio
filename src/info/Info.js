@@ -101,9 +101,9 @@ export const info = {
             image: mock4
         },
         {
-            title: "Javascript Quiz",
-            live: "https://kevintran87.github.io/mod4/",
-            source: "https://github.com/kevintran87/mod4",
+            title: "Purrfect Pals",
+            live: "https://cryptic-retreat-89387.herokuapp.com/",
+            source: "https://github.com/talexander91/Purrfect_Pals",
             image: mock5
         }
     ]
