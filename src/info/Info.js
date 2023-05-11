@@ -49,7 +49,7 @@ export const info = {
         },
    
     ],
-    bio: "Hello! I'm Kevin. I was in medical sales for the last 10 years and am now making a transition into tech. I enjoy building websites to help expand and grow your business. You should hire me!",
+    bio: "Hello! I'm Kevin. I was in medical sales for the last 10 years and am now making a transition into tech. I enjoy building websites to help maintain or expand and grow your business. You should hire me!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'nodejs', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
